@@ -1,0 +1,2 @@
+* Fixed-up ~org-drill~
+Once, I tried to install ~org-drill~. I found it a bit difficult to install and a bit difficult to get it working properly. Hence, I downloaded it and proceeded to add some things to make it work for me. 
